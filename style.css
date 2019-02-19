@@ -2,5 +2,13 @@ html, body{
  margin : 0; 
 }
 body{
-backgroud-color #333444;
+backgroud-color: #FFFAFA;
 }
+
+img{
+	height: 200px;
+	margin: 0 auto;
+	display: block;
+}
+
+
