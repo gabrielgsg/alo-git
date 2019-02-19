@@ -1,11 +1,16 @@
 html, body{
  margin : 0; 
 }
+<<<<<<< HEAD
 
 img{
 	height: 200px;
 	margin: 0 auto;
 	display: block;
+=======
+body{
+background-color #333444;
+>>>>>>> c07a5b3c4073f1d6d8c30706a9669283d945ec55
 }
 
 
